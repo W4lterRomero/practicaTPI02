@@ -6,6 +6,8 @@ $imagenes = [
     "img/foto4.png",
     "img/foto5.png"
 ];
+
+$nombre = "Walter";
 ?>
 <!DOCTYPE html>
 <html lang="es">
