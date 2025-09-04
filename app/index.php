@@ -99,7 +99,7 @@
 
     ?> -->
 
-    <!-- <form method="get">
+     <form action ="cajanegra.php"method="get">
         <label for="vocal">Escriba una palabra</label>
         <input type="text" name="palabra">
         <input type="submit" value="submit">

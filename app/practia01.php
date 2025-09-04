@@ -58,3 +58,12 @@
     </div>
  </body>
  </html>
+
+Declarar variables
+Condicionales
+Bucles
+Obtener Get/Post de un formulario con cajanegra
+Escribir html con php tablas, hacer diseños de caja
+Hacer Validaciones EMAIL, NUMEROS Y LETRAS
+Métodos de arrays: array_column, array_filter, 
+Operadores cuaternarios

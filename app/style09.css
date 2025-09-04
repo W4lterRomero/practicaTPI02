@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+.busqueda{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contacto{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+/* Contenedor de tarjetas: centra las cartas en el eje horizontal y permite múltiples filas */
+.tarjetas  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* centra horizontalmente */
+    gap: 1.5rem;            /* separación entre cartas */
+    padding: 1.5rem;
+}
+.tarjetas_filtradas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* centra horizontalmente */
+    gap: 1.5rem;            /* separación entre cartas */
+    padding: 1.5rem;
+}
